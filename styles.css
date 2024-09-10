@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(164,255, 23,100);
+      font-family:Poppins,  serif;
+}
+
+.container{
+   background-color:rgba(208,215, 198, 60%);
+  width: 380px;
+
+  border-radius: 8px 8px;
+  margin: auto;
+  margin-top: 140px;
+  
+}
+.heading{
+   background-color:rgba(2,251, 173, 70%);
+  text-align:center;
+  border-radius: 8px 8px 0 0;
+}
+
+.task{
+  margin-left: 20px;
+}
+input{
+ line-height:28px;
+  padding-top: 3px;
+}
+ input::placeholder{
+  font-size:17px;
+ font-family:Poppins,  serif;
+}
+
+button{
+  font-size:19px;
+  padding-bottom:3px;
+  text-align:center;
+   font-family:Poppins,  serif;
+}
+
+
